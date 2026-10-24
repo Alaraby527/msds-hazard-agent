@@ -1,3 +1,8 @@
+
+# ----------------------------------------------------------------------
+# Project created by Alaraby527 - 2026
+# Repository: github.com/Alaraby527
+# ----------------------------------------------------------------------
 """Standalone MSDS Agent V2: PDF text baseline plus local Chinese OCR."""
 from __future__ import annotations
 
